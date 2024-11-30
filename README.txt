@@ -5,7 +5,8 @@ Final Project
 
 This project allows the user to obtain information about National Park Service (NPS) sites in the state of California. 
 
-The project uses the following libraries: json, requests, secret, and networkx. 
+The project uses the following libraries: json, requests, secret, and networkx. The user should obtain their NPS api key here https://www.nps.gov/subjects/developer/get-started.htm
+and replace the api_key variable with their own before running the program.
 
 The project obtains data from the NPS API. An API key is required to do an API call. The end user can obtain their
 own api key here: https://www.nps.gov/subjects/developer/get-started.htm
